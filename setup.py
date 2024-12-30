@@ -25,7 +25,7 @@ setup(
         'base91',
         'pybase100',
         'exifread',
-        'opencv-python',
+        #'opencv-python',
         'pytesseract'
     ],
     python_requires='>=3.0.0',
